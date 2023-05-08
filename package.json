@@ -1,0 +1,11 @@
+{
+  "name": "reactp",
+  "version": "1.0.0",
+  "description": "just to practice react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tesfaye",
+  "license": "ISC"
+}
